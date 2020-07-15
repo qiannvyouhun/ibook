@@ -1,2 +1,2 @@
 # ibook
-SPA电子书
+这是 GitBook 制作的电子书。
